@@ -1,0 +1,35 @@
+.cartContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.cartContent > img {
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+
+.cartTotal{
+    text-align: center;
+}
+
+.cart-message-center{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.counter-button{
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cart-delete-button{
+    cursor: pointer;
+}
+
+.product-details{
+    margin-left: 10px;
+}

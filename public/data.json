@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Los Juegos del Hambre",
+    "author": "",
+    "price": 750.76,
+    "img": "https://m.media-amazon.com/images/I/71N9ipxBq-L._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Maze Runner: Correr o Morir",
+    "author": "",
+    "price": 450,
+    "img": "https://www.elsotano.com/imagenes_grandes/9786077/978607754732.JPG",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "El tiempo entre costuras",
+    "author": "",
+    "price": 430.32,
+    "img": "https://m.media-amazon.com/images/I/71oL1RG5cBL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "La casa de los espiritus",
+    "author": "",
+    "price": 276.09,
+    "img": "https://m.media-amazon.com/images/I/914oLv5QzaL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+    {
+        "id": 5,
+        "name": "Hacking",
+        "author": "",
+        "price": 830,
+        "img": "https://m.media-amazon.com/images/I/61jRbxk5-kL._SY466_.jpg",
+        "quantity": 1
+    },
+  {
+    "id": 6,
+    "name": "La teoría del todo",
+    "author": "",
+    "price": 1200,
+    "img": "https://m.media-amazon.com/images/I/916d6cobjqL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "La teoría de los archipiélagos",
+    "author": "",
+    "price": 180,
+    "img": "https://m.media-amazon.com/images/I/61O8OGpGWIL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Memorias de una Geisha",
+    "author": "",
+    "price": 279.00,
+    "img": "https://m.media-amazon.com/images/I/7158mvs-7tL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1
+  }
+]s
